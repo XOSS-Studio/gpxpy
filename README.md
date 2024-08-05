@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/tkrajina/gpxpy.svg?branch=master)](https://travis-ci.org/tkrajina/gpxpy)
-[![Coverage Status](https://coveralls.io/repos/github/tkrajina/gpxpy/badge.svg?branch=master)](https://coveralls.io/github/tkrajina/gpxpy?branch=master)
+[![Run Tests](https://github.com/tkrajina/gpxpy/actions/workflows/test.yml/badge.svg)](https://github.com/tkrajina/gpxpy/actions/workflows/test.yml)
 
 # gpxpy -- GPX file parser
 
