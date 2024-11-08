@@ -20,7 +20,7 @@ import xml.sax.saxutils as mod_saxutils
 
 from . import utils as mod_utils
 
-from typing import *
+from typing import Any, Dict, List, Optional, Tuple, Union, Callable, Iterable, cast
 
 
 class GPXFieldTypeConverter:
